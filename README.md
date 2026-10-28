@@ -1,19 +1,18 @@
-# Muhammad Haroon Portfolio
+# Muhammad Haroon | Premium SEO Portfolio
 
-A responsive static portfolio website for GitHub Pages.
+Static, mobile-responsive website for GitHub Pages, based on Muhammad Haroon’s CV and supplied dashboard screenshots.
 
-## Publish on GitHub Pages
-1. Create a public GitHub repository named `YOURUSERNAME.github.io` (replace YOURUSERNAME with your real GitHub username).
-2. Upload **the contents of this folder** into the repository root (`index.html`, `style.css`, `script.js`, and `assets/`). Do not upload only the ZIP file.
-3. Commit the files to the `main` branch.
-4. Open repository Settings → Pages → Build and deployment. Select **Deploy from a branch**, branch `main`, folder `/ (root)`, and Save.
-5. Visit `https://YOURUSERNAME.github.io/` once deployed.
+## Publish
+1. Open `https://github.com/muhammadharoonseo/muhammadharoonseo.github.io`.
+2. Upload the **contents of this folder** (not the ZIP or an extra parent folder). Use `Add file` > `Upload files` and drag all files and the `assets` folder.
+3. If GitHub asks about identical filenames, confirm the replacement. Commit the changes to `main`.
+4. In **Settings > Pages**, use **Deploy from a branch**, `main`, `/ (root)`.
+5. Visit `https://muhammadharoonseo.github.io/` after deployment completes. Refresh using Ctrl+Shift+R.
 
-## Important edits before sharing
-- Your uploaded professional profile photo is included at `assets/muhammad-haroon-profile.webp` and appears in the hero section. To replace it later, update this image file.
-- Google Search Console and GA4 screenshots are anonymized as A/B/C because they do not identify the associated domains in the provided files. Update case study names, methods and attribution **only after verifying which dashboard belongs to which client**.
-- The screenshots are aggregate metrics, not evidence of growth percentages or causality.
-- Review whether you have permission to share client performance screenshots publicly. Remove or blur anything confidential.
-- Replace generic descriptions with project-specific work when you can substantiate it.
-
-Tech: static HTML/CSS/JS; no build tooling required.
+## Important
+- All seven original image assets remain under `assets/`, including one portrait and six dashboard screenshots.
+- Case studies do not claim growth, causation or client attribution without evidence.
+- The 200+ pages figure and career history derive from the supplied CV.
+- Review permission and confidentiality before publicly displaying client analytics screenshots.
+- HTML includes a canonical URL, social metadata, a Person/WebSite JSON-LD graph, and there are `robots.txt`, `sitemap.xml`, and `favicon.svg` files.
+- The social share thumbnail uses the supplied portrait. For better social preview design, a dedicated 1200x630 card may be added later.
