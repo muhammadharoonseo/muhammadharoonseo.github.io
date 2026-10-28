@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadharoonseo.github.io/sitemap.xml
