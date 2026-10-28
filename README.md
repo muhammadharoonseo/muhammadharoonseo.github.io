@@ -16,3 +16,7 @@ Static, mobile-responsive website for GitHub Pages, based on Muhammad Haroon’s
 - Review permission and confidentiality before publicly displaying client analytics screenshots.
 - HTML includes a canonical URL, social metadata, a Person/WebSite JSON-LD graph, and there are `robots.txt`, `sitemap.xml`, and `favicon.svg` files.
 - The social share thumbnail uses the supplied portrait. For better social preview design, a dedicated 1200x630 card may be added later.
+
+
+## Editorial review
+All detailed professional copy is grounded in the supplied CV. Dashboard totals are screenshots, not verified client-specific growth or attribution. Ensure consent before publishing third-party analytics.
